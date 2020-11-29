@@ -1,0 +1,10 @@
+[
+	{
+		"keys": ["ctrl+0"],
+		"command": "cap_command_line"
+	},
+	{
+		"keys": ["ctrl+\\"],
+		"command": "cap_text_line"
+	}
+]

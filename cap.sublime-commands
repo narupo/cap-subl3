@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Cap: Execute cap command",
+        "command": "cap_command_line"
+    }
+]
